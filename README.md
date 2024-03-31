@@ -6,7 +6,7 @@ This Web service based on RESTful API provides a complete suite of features for 
   <li>ASP.NET Core</li>
   <li>PostrgeSQL</li>
   <li>Entity Framework Core</li>
-  <Redis>
+  <li>Redis</li>
   <li>Swagger</li>
   <li>Serilog</li>
 </ul>
